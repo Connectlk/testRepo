@@ -17,7 +17,6 @@ function NastedLogin() {
     <button className='bg-sky-200 p-2 rounded-md' onClick={()=> gotoLogin("/login")}>Go to login</button>
     </>
 
-sfwcswdd
   )
 }
 
